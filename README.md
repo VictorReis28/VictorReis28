@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a3085&height=120&section=header"/>
 
-<!--
-**VictorReis28/VictorReis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1a4599&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+name+is+Victor+Reis+Furtado;I'm+21+years+old;I+study+Software+Engineering+at+UniVassouras;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-Here are some ideas to get you started:
+<br clear="both">
+<div align="center">
+  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/victorreis28/)
+  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:Victorreisfurtado603@gmail.com)
+  [![Outlook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg)](mailto:Victorreisfurtado603@hotmail.com)
+  [![WhatsApp](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](https://wa.me/24999570851)
+  [![Discord](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.com/users/452525698939355138)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
