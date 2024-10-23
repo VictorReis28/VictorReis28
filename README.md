@@ -5,9 +5,9 @@
 <br clear="both">
 
 <h1 align="left">📌 About Me</h1>
-<p align="left">👋🏻 Hello, I am Victor! A technology enthusiast.<br>
+<p align="left" style="font-size: 18px;">👋🏻 Hello, I am Victor! A technology enthusiast.<br>
 <br>  💻 I am currently studying Software Engineering at UniVassouras.<br>
-<br>  🔭 I am seeking my first job opportunity.</p
+<br>  🔭 I am seeking my first job opportunity.</p>
 
 <br clear="both">
 
